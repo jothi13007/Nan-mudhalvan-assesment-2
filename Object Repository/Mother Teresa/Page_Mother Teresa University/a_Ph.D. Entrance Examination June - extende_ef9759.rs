@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ph.D. Entrance Examination June - extende_ef9759</name>
+   <tag></tag>
+   <elementGuidId>d79d738a-bada-4813-bba5-4ac9990f3a73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_contents']/header/div/div/div/div/marquee/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.glow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Ph.D. Entrance Examination June - extended to 13.6.2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2901ff8a-bda5-4902-b4b9-8bd8a200e461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://drive.motherteresawomenuniv.ac.in/drive/s/TnfVqSydbZX5CxaRmNJLlaan2sYFkH</value>
+      <webElementGuid>e8510009-f582-423c-99a1-da21770f461a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glow</value>
+      <webElementGuid>6b7308a9-c71e-46ef-a8ca-988a44e62f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ph.D. Entrance Examination June - extended to 13.6.2024</value>
+      <webElementGuid>3735a86d-52ef-4024-8384-36840dc27eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_contents&quot;)/header[@class=&quot;header-area header-style-1 htype_one&quot;]/div[@class=&quot;top_bar&quot;]/div[@class=&quot;large-container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-lg-9 col-md-12 col-sm-12 col-xs-12&quot;]/marquee[1]/span[1]/a[@class=&quot;glow&quot;]</value>
+      <webElementGuid>a16aa035-a687-4024-a952-cf1438881725</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_contents']/header/div/div/div/div/marquee/span/a</value>
+      <webElementGuid>386637c8-8a96-4bca-b298-368d8a7d1943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ph.D. Entrance Examination June - extended to 13.6.2024')]</value>
+      <webElementGuid>7fb7e165-6637-4299-a4cb-e7237a01bc3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heading For benchmark disabilities'])[1]/preceding::a[1]</value>
+      <webElementGuid>0cfeeca7-712a-4fc2-aa5f-d0f6744672e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate certificates/Consolidated and Provisional Certificate/Degree Certificate'])[1]/preceding::a[2]</value>
+      <webElementGuid>9bf196c5-8ea0-4436-b738-46911c0d00be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ph.D. Entrance Examination June - extended to 13.6.2024']/parent::*</value>
+      <webElementGuid>f4911b7d-4220-443e-8adb-4548a642eb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://drive.motherteresawomenuniv.ac.in/drive/s/TnfVqSydbZX5CxaRmNJLlaan2sYFkH')]</value>
+      <webElementGuid>47f4d1b2-acfa-4131-bdee-6cef0cf12422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>6147c218-4981-4f85-8402-86e0e3e2ebf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://drive.motherteresawomenuniv.ac.in/drive/s/TnfVqSydbZX5CxaRmNJLlaan2sYFkH' and (text() = 'Ph.D. Entrance Examination June - extended to 13.6.2024' or . = 'Ph.D. Entrance Examination June - extended to 13.6.2024')]</value>
+      <webElementGuid>7bd79465-5f99-4f53-831d-866e0e04ad1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

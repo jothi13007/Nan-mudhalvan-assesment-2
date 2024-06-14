@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_POONAM HOTEL</name>
+   <tag></tag>
+   <elementGuidId>7953db8b-eedd-4065-a8dd-859d7bdfe78a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pendingApplication']/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.linkColor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;POONAM HOTEL&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25f9ac96-7e44-46f2-88fd-07454214de8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:submitInstitutionDetail('IN157181','Maharashtra')</value>
+      <webElementGuid>a511df23-0fd6-490e-a8a2-3de6fa3ab606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkColor</value>
+      <webElementGuid>6d88d28c-7f66-4486-9685-0a540bc624e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>               POONAM HOTEL                        </value>
+      <webElementGuid>1d1fca0a-bb5b-4b91-bc0f-90a85bb8f7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pendingApplication&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/a[@class=&quot;linkColor&quot;]</value>
+      <webElementGuid>d68423aa-f6ba-418d-9c57-36cf3d1cbf77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pendingApplication']/tbody/tr/td/a</value>
+      <webElementGuid>2a96b918-e42a-4544-9a05-030b992ced7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'POONAM HOTEL')]</value>
+      <webElementGuid>c073c13a-c2b3-4bee-8a57-69a0f898e724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[2]/following::a[1]</value>
+      <webElementGuid>bc5a9678-2eae-4efc-85fb-9cbcdf2a1162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name of Other Institutions'])[2]/following::a[1]</value>
+      <webElementGuid>02179a49-981e-4336-a6eb-d5d88fd76743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maharashtra'])[2]/preceding::a[1]</value>
+      <webElementGuid>25d856f7-1f78-4ffc-a34a-4e97d7ef6e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S K Karthik heights Residents Welfare Association'])[1]/preceding::a[1]</value>
+      <webElementGuid>5efd5f10-aa08-44cc-a01d-8dca5d3645f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='POONAM HOTEL']/parent::*</value>
+      <webElementGuid>9e26b8df-5962-4283-8ac5-573713bd30c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:submitInstitutionDetail('IN157181','Maharashtra')&quot;)]</value>
+      <webElementGuid>66346442-f900-4905-a8ce-f121780f12b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>fe703854-7c48-46fc-a8b5-971c0743af9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:submitInstitutionDetail(&quot; , &quot;'&quot; , &quot;IN157181&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;Maharashtra&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = '               POONAM HOTEL                        ' or . = '               POONAM HOTEL                        ')]</value>
+      <webElementGuid>6d0177dc-d477-48e9-bea5-d8c7f5ba8b0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

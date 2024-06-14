@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to go to SBCollect home page</name>
+   <tag></tag>
+   <elementGuidId>335e331f-745c-41a3-8dbf-6880fcfe6461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/main/section/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Click here to go to SBCollect home page&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbd03d6a-2639-4872-93c2-6bb3e5c42f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sbicollect/icollecthome.htm</value>
+      <webElementGuid>cc012f62-acd0-429d-bd46-e2fb1b35f650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>click here</value>
+      <webElementGuid>0a4ce7d7-d85d-4c5a-9742-a7d23699ba10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>b669d1eb-2e9c-4094-affd-9cda3091b4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to go to SBCollect home page</value>
+      <webElementGuid>4d165c16-e375-4ced-abfc-5c1c1ca90c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/main[1]/section[@class=&quot;section_div&quot;]/div[@class=&quot;row  content_section&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-lg-12 mt-3&quot;]/div[@class=&quot;alert alert-danger text-center&quot;]/a[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>83c220d7-77ea-44a3-a170-c9b92de71bfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/main/section/div/div/div/a</value>
+      <webElementGuid>ec86c34f-aa09-430d-a5f6-863f5cd63cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to go to SBCollect home page')]</value>
+      <webElementGuid>9ffee5c0-6724-4330-9ca5-fb470f9f47f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/following::a[1]</value>
+      <webElementGuid>113ae1c8-a515-4cab-813d-6651ece23af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© State Bank of India'])[1]/preceding::a[1]</value>
+      <webElementGuid>d64baf47-983d-409b-8038-95b54106b488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to go to SBCollect home page']/parent::*</value>
+      <webElementGuid>d9c5e142-8d3d-4256-bf74-cdd8cac5ff00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/sbicollect/icollecthome.htm')])[2]</value>
+      <webElementGuid>d8fa7633-14ca-479c-b758-673f53004cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/a</value>
+      <webElementGuid>22e24f4b-87b9-438b-b27d-7efb0eaa8bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sbicollect/icollecthome.htm' and @title = 'click here' and (text() = 'Click here to go to SBCollect home page' or . = 'Click here to go to SBCollect home page')]</value>
+      <webElementGuid>cb56e498-8104-40dd-b55c-0983e076b573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

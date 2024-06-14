@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Ph.D. Entrance Examination online Fe_4dc069</name>
+   <tag></tag>
+   <elementGuidId>b404cc4e-04e4-49ce-beff-8c118ef09610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.w-full.h-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe[title=&quot;Preview for Ph\.D\. Entrance Examination online Fee Payment Link\.docx&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>79e4374e-52a1-4cd9-8cdb-5c55bac08429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Preview for Ph.D. Entrance Examination online Fee Payment Link.docx</value>
+      <webElementGuid>c4091aa3-b504-4f94-9dbe-f4083aa57926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full</value>
+      <webElementGuid>dbeb3080-4917-4e4e-b7cc-5fb897498671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fdrive.motherteresawomenuniv.ac.in%2Fapi%2Fv1%2Ffile-entries%2F12979%3Fshareable_link%3D412%26password%3Dnull%26thumbnail%3D</value>
+      <webElementGuid>081ef6c8-9f97-420e-a413-1da62401515a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;isolate z-modal fixed inset-0&quot;]/div[@class=&quot;absolute inset-0 w-full h-full z-20 flex items-center justify-center pointer-events-none&quot;]/div[@class=&quot;mx-auto pointer-events-auto outline-none flex flex-col overflow-hidden bg-alt w-full h-full flex flex-col&quot;]/div[@class=&quot;overflow-hidden relative flex-auto&quot;]/div[@class=&quot;absolute inset-0 flex items-center justify-center&quot;]/div[@class=&quot;max-h-[calc(100%-30px)] w-full h-full&quot;]/iframe[@class=&quot;w-full h-full&quot;]</value>
+      <webElementGuid>0a33f37e-2209-4ecd-908c-b173ece5752a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/iframe</value>
+      <webElementGuid>42564b37-e3f0-43c8-8d77-9044b71337e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>1febb0f6-0f45-4546-aa31-975fffdc6685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@title = 'Preview for Ph.D. Entrance Examination online Fee Payment Link.docx' and @src = 'https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fdrive.motherteresawomenuniv.ac.in%2Fapi%2Fv1%2Ffile-entries%2F12979%3Fshareable_link%3D412%26password%3Dnull%26thumbnail%3D']</value>
+      <webElementGuid>244db164-ab48-4feb-9cb3-9fda8d2ad0c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
